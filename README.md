@@ -1,4 +1,4 @@
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Desenvolvedor Full Stack com forte foco em backend, atuando na construção de sistemas escaláveis, manuteníveis e bem estruturados, com ênfase em decisões arquiteturais e qualidade de código.
 
